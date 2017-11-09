@@ -10,6 +10,7 @@
 # Code on GitHub : 
 * Tensorflow : https://github.com/naturomics/CapsNet-Tensorflow
 * Keras : https://github.com/XifengGuo/CapsNet-Keras
+* PyTorch : https://github.com/gram-ai/capsule-networks
 
 
 
