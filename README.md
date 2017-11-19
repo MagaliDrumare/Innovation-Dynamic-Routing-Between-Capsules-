@@ -5,7 +5,8 @@
 
 # Dynamic-Routing-Between-Capsules-To read 
 * “Understanding Dynamic Routing between Capsules, J.Hui ”: https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/
-* Understanding Hinton’s Capsule Networks. Part I Intuition, Max Pechyonkin .: http://bit.ly/2A4U4MD
+* Understanding Hinton’s Capsule Networks. Part I Intuition, Max Pechyonkin : http://bit.ly/2A4U4MD
+* Understanding Hinton’s Capsule Networks. Part II: How Capsules Work : http://bit.ly/2zgGDNF
 
 # Code on GitHub : 
 * Tensorflow : https://github.com/naturomics/CapsNet-Tensorflow
