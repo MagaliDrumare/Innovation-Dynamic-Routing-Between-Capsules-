@@ -1,5 +1,6 @@
 # Dynamic-Routing-Between-Capsules-To watch 
 * Capsule Networks (CapsNets) – Tutorial by Aurélien Géron: http://bit.ly/2A4a457
+* How to implement CapsNets using TensorFlow-Tutorial by Aurélien Géron: https://youtu.be/2Kawrd5szHE
 * Geoffrey Hinton talk "What is wrong with convolutional neural nets ?" https://youtu.be/rTawFwUvnLE
 * Capsule Networks: An Improvement to Convolutional Networks, Siraj Raval: https://youtu.be/VKoLGnq15RM
 
